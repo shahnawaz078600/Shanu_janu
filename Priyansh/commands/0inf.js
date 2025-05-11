@@ -30,17 +30,17 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ ꧁SHAH❣️꧂💔🥀
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 🆂🅷🅰🅷💋🥀
 
-🙈bot andmin owner facebook id link🙈➪ www.facebook.com/priyanshu.rajput.official 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ www.facebook.com/Ammi Ka .Ladla.official 💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @𝕊𝕙𝕒𝕙𝕟𝕒𝕨𝕒𝕫 𝕤𝕚𝕕𝕕😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @𝕊𝕙𝕒𝕙𝕟𝕒𝕨𝕒𝕫😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ ꧁SHAH❣️꧂
+♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ 🆂🅷🅰🅷👑
 
 🥳UPTIME🥳
 
@@ -53,7 +53,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒꧁SHAH❣️꧂🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒🆂🅷🅰🅷🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
